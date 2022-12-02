@@ -11,6 +11,7 @@
     <br />
     <a href="https://github.com/fitriaulias/Final_Project_Kel5/tree/main/final-project-3"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://drive.google.com/drive/folders/1dMhrv33Gr3CEHWLYAeT8SI69btwic8Z2?usp=sharing">>>>>> Download the Apk here. <<<<<</a>
     <br />
     <p>Final Project 3 oleh Kelompok 5</p>
   </p>
